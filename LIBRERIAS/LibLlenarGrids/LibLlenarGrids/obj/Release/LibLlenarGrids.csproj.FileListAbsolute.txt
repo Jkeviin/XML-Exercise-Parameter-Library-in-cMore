@@ -1,0 +1,51 @@
+E:\Desarrollo Web\PRYWGridsCombos\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.dll
+E:\Desarrollo Web\PRYWGridsCombos\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.pdb
+E:\Desarrollo Web\PRYWGridsCombos\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibConexionBD.dll
+E:\Desarrollo Web\PRYWGridsCombos\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibParametros.dll
+E:\Desarrollo Web\PRYWGridsCombos\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibConexionBD.pdb
+E:\Desarrollo Web\PRYWGridsCombos\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibParametros.pdb
+E:\Desarrollo Web\PRYWGridsCombos\practica grids y combos\LibLlenarGrids\LibLlenarGrids\obj\Release\ResolveAssemblyReference.cache
+E:\Desarrollo Web\PRYWGridsCombos\practica grids y combos\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.dll
+E:\Desarrollo Web\PRYWGridsCombos\practica grids y combos\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.pdb
+K:\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.dll
+K:\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.pdb
+K:\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibParametros.dll
+K:\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibConexionBD.pdb
+K:\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibParametros.pdb
+K:\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\obj\Release\ResolveAssemblyReference.cache
+K:\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.dll
+K:\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.pdb
+C:\Documents and Settings\Jorge Peña\Escritorio\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.dll
+C:\Documents and Settings\Jorge Peña\Escritorio\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.pdb
+C:\Documents and Settings\Jorge Peña\Escritorio\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibConexionBD.dll
+C:\Documents and Settings\Jorge Peña\Escritorio\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibParametros.dll
+C:\Documents and Settings\Jorge Peña\Escritorio\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibConexionBD.pdb
+C:\Documents and Settings\Jorge Peña\Escritorio\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibParametros.pdb
+C:\Documents and Settings\Jorge Peña\Escritorio\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jorge Peña\Escritorio\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.dll
+C:\Documents and Settings\Jorge Peña\Escritorio\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.pdb
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.dll
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.pdb
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibParametros.dll
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibConexionBD.pdb
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\bin\Release\LibParametros.pdb
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\obj\Release\ResolveAssemblyReference.cache
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.dll
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.pdb
+C:\Users\SENA\Desktop\ejercicio de inventario\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.dll
+C:\Users\SENA\Desktop\ejercicio de inventario\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.pdb
+C:\Users\SENA\Desktop\ejercicio de inventario\LibLlenarGrids\LibLlenarGrids\bin\Release\LibConexionBD.dll
+C:\Users\SENA\Desktop\ejercicio de inventario\LibLlenarGrids\LibLlenarGrids\bin\Release\ClassLibrary1.dll
+C:\Users\SENA\Desktop\ejercicio de inventario\LibLlenarGrids\LibLlenarGrids\bin\Release\ClassLibrary1.pdb
+C:\Users\SENA\Desktop\ejercicio de inventario\LibLlenarGrids\LibLlenarGrids\bin\Release\LibConexionBD.pdb
+C:\Users\SENA\Desktop\ejercicio de inventario\LibLlenarGrids\LibLlenarGrids\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SENA\Desktop\ejercicio de inventario\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.dll
+C:\Users\SENA\Desktop\ejercicio de inventario\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.pdb
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.dll
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Release\LibLlenarGrids.pdb
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Release\ClassLibrary1.dll
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Release\LibConexionBD.pdb
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Release\ClassLibrary1.pdb
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.csprojResolveAssemblyReference.cache
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.dll
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\obj\Release\LibLlenarGrids.pdb

@@ -1,0 +1,14 @@
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\bin\Debug\AppLeerXML.exe.config
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\bin\Debug\AppLeerXML.exe
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\bin\Debug\AppLeerXML.pdb
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\bin\Debug\LibParametro.dll
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\bin\Debug\LibParametro.pdb
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.AssemblyReference.cache
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.Form1.resources
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.Properties.Resources.resources
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.GenerateResource.cache
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.CoreCompileInputs.cache
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.CopyComplete
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.exe
+C:\Users\adsi\Desktop\AppLeerXML\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.pdb

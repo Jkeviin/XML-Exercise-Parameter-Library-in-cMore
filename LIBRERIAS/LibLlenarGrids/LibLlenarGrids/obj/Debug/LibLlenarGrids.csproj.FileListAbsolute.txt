@@ -1,0 +1,18 @@
+C:\Documents and Settings\Administrador\Escritorio\practica grids y combos\LibLlenarGrids\LibLlenarGrids\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\salah305\Desktop\practica grids y combos\LibLlenarGrids\LibLlenarGrids\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\salah305\Desktop\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibLlenarGrids.dll
+C:\Users\salah305\Desktop\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibLlenarGrids.pdb
+C:\Users\salah305\Desktop\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibConexionBD.dll
+C:\Users\salah305\Desktop\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Debug\libParametros.dll
+C:\Users\salah305\Desktop\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibConexionBD.pdb
+C:\Users\salah305\Desktop\practica grids y combos\LibLlenarGrids\LibLlenarGrids\bin\Debug\libParametros.pdb
+C:\Users\salah305\Desktop\practica grids y combos\LibLlenarGrids\LibLlenarGrids\obj\Debug\LibLlenarGrids.dll
+C:\Users\salah305\Desktop\practica grids y combos\LibLlenarGrids\LibLlenarGrids\obj\Debug\LibLlenarGrids.pdb
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibLlenarGrids.dll
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibLlenarGrids.pdb
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Debug\libParametros.dll
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibConexionBD.pdb
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\bin\Debug\libParametros.pdb
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\obj\Debug\LibLlenarGrids.csprojResolveAssemblyReference.cache
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\obj\Debug\LibLlenarGrids.dll
+C:\Users\ADALBERTO\Desktop\escritorio\practicawf\NET ESCRITORIO\CRUD_WF\LIBRERIAS\LibLlenarGrids\LibLlenarGrids\obj\Debug\LibLlenarGrids.pdb
